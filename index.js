@@ -12,6 +12,7 @@ app.use(express.static("public"));
 
 // Socket setup & pass server
 var io = socket(server);
+
 io.on("connection", (socket) => {
   console.log("Made socket connection with id - 😀 - ", socket.id);
 
