@@ -37,7 +37,7 @@
 
 ## 📢 About The Project
 
-Real time chat is a site of clear cut demonstration of how we can embed web sockets in a chat application.
+Real time chat is a clear demonstration site of how we can seamlessly integrate websockets into a chat application.
 
 Features -
 
@@ -47,6 +47,8 @@ Features -
 <p align="right"><a href="#top">back to top</a></p>
 
 ## 💉 Screenshots
+
+https://user-images.githubusercontent.com/75943412/169649195-33d9f75c-611d-4102-84fb-d7f2e4505ef9.mp4
 
 ![1](readme_assets/1.png)
 ![2](readme_assets/2.png)
